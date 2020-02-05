@@ -1,2 +1,2 @@
-# Robot-code XD LOL
-code for robot LMBO
+# Robot-code
+code for robot
